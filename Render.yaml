@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: 
+    repo: https://github.com/mryashpawar7/Cobra_update.git
     branch: main
     autoDeploy: false
     envVars:
